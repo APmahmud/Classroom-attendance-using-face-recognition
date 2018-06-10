@@ -1,0 +1,2 @@
+# Classroom-attendance-using-face-recognition
+System that can detect students entering the classroom and mark them present on a server. It uses a kinect camera as a video input source and first detects face from video frames. After detecting face, then the detected faces are compared against pre-loaded database to recognize each students and marks the detected and recognized students present in the mysql server. 
